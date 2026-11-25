@@ -15,7 +15,7 @@ Faviconda is a Mac app that puts your own icons on sites in Safari's Favorites b
 3. Give it **Full Disk Access** in System Settings > Privacy & Security > Full Disk Access. Safari keeps its icons in a folder macOS protects, and Faviconda needs this to read and write there.
 4. In Safari, go to Settings > Extensions, turn on **Faviconda**, and allow it on all websites. Do this in every Safari profile you use. The app reminds you if it's off.
 
-Requires macOS 14 or later. Built and tested on macOS 27.
+Requires macOS 27.
 
 ## Use
 
